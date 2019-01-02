@@ -1,3 +1,4 @@
 # TeamECsite-MyWork
 [sunflower]チーム開発担当箇所
-https://user-images.githubusercontent.com/44050450/50582058-cf7bd200-0ea2-11e9-9bfc-36f26c77dedb.png
+<img width="1440" alt="default" src="https://user-images.githubusercontent.com/44050450/50582093-4913c000-0ea3-11e9-8496-d2a4dd736a59.png">
+
