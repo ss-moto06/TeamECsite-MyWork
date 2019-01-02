@@ -1,12 +1,12 @@
 # TeamECsite-MyWork
 ECサイト[sunflower]：家具・家庭用品の通販サイト<br>
 チーム開発担当箇所<br>
-・login機能
-・login画面
-・ユーザー登録画面
-・ユーザー登録確認画面
-・ユーザー登録完了画面
-ホーム画面
+・ログイン機能<br>
+・ログイン画面<br>
+・ユーザー登録画面<br>
+・ユーザー登録確認画面<br>
+・ユーザー登録完了画面<br>
+ホーム画面<br>
 <img width="1440" alt="home" src="https://user-images.githubusercontent.com/44050450/50582133-8ed08880-0ea3-11e9-9ace-ea015337eb48.png">
 ログイン画面
 <img width="1440" alt="default" src="https://user-images.githubusercontent.com/44050450/50582135-909a4c00-0ea3-11e9-94d0-bb9f8afd8e94.png">
