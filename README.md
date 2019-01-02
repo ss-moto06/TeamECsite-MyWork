@@ -1,6 +1,6 @@
 # TeamECsite-MyWork
-ECサイト[sunflower]：家具・家庭用品の通販サイト
-チーム開発担当箇所
+ECサイト[sunflower]：家具・家庭用品の通販サイト<br>
+チーム開発担当箇所<br>
 ・login機能
 ・login画面
 ・ユーザー登録画面
